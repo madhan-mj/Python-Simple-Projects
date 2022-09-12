@@ -51,7 +51,8 @@ for i in range (10):
     t.forward(5)
     t.left(60)
     t.forward(200)
-
+    
+#HOme Structure 
 t.right(90)
 t.forward(100)
 t.right(90)
